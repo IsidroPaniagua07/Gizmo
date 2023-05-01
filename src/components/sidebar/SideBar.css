@@ -1,0 +1,6 @@
+.sidebar-container {
+    display: flex;
+    width: 10vw;
+    border: 1px solid black;
+
+}
